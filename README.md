@@ -27,18 +27,18 @@
 ### Start:
 - Timer for game to start.
 - Animation for UI switching.
-![](https://github.com/Majd-Yahia/ZigZag/blob/main/gif/zigzag_start.gif) 
+![](https://github.com/Majd-Yahia/ZigZag/blob/main/gifs/zigzag_start.gif) 
 
 
 
 -------------------------------------------------------------------------------
 ### Collecting Crystals:
 - Animation and sound for crystal pickup.
-![](https://github.com/Majd-Yahia/ZigZag/blob/main/gif/crystal.gif)
+![](https://github.com/Majd-Yahia/ZigZag/blob/main/gifs/crystal.gif)
 
 
 -------------------------------------------------------------------------------
 ### Falling Feature:
 - Player has 3 lives, for when player falls it will take away a heart.
 - Respawn player to a check point if player falls.
-![](https://github.com/Majd-Yahia/ZigZag/blob/main/gif/fall.gif)
+![](https://github.com/Majd-Yahia/ZigZag/blob/main/gifs/fall.gif)
